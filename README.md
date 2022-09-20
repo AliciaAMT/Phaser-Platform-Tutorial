@@ -1,10 +1,16 @@
 # HTML5 Game Dev: 2D Platform Fundamentals Tutorial
 
 ## Tools
+Node LTS (16.17.0 as of 9/20/2022)
+
 Phaser.io
+
 NVM
+
 VsCode
+
 `git clone https://github.com/jedhastwell/phaser3-es6-webpack-boilerplate.git`
+
 Optional: Texture Packer
 
 
@@ -74,6 +80,11 @@ Add physics engine to this line:
 
 ### Install State Machine Library
 `npm install javascript-state-machine --save`
+
+## Class 32 - Tiled
+I am picking up where I left of to finish the course.
+Sprite is still working find with node 16.17.0
+**************************************************
 
 
 
